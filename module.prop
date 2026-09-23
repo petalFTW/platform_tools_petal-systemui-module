@@ -1,0 +1,6 @@
+id=petal_systemui_dev
+name=petalOS SystemUI Dev Override
+version=23.2-dev
+versionCode=1
+author=petalOS
+description=Systemless petalOS SystemUI override for rapid UI iteration on macanc.

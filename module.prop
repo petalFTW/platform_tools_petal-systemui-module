@@ -1,6 +1,6 @@
 id=petal_systemui_dev
 name=petalOS SystemUI Dev Override
-version=23.2-dev
-versionCode=1
+version=27.0-work-mode-island-peek
+versionCode=27
 author=petalOS
-description=Systemless petalOS SystemUI override for rapid UI iteration on macanc.
+description=SystemUI test update: Island redaction, QS-controlled work mode, hold-to-peek text reveal, and finger-following first-pull QS collapse.

@@ -5,7 +5,7 @@ the device's real path, `/system_ext/priv-app/SystemUI/SystemUI.apk`.
 
 ```bash
 source build/envsetup.sh
-lunch petal_macanc-bp4a-eng
+lunch petal_macanc-bp4a-user
 m SystemUI
 tools/petal-systemui-module/build.sh
 ```

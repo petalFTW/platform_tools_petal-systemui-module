@@ -1,6 +1,6 @@
 id=petal_systemui_dev
 name=petalOS SystemUI Dev Override
-version=27.0-work-mode-island-peek
-versionCode=27
+version=59.0-shadow-pathop
+versionCode=59
 author=petalOS
-description=SystemUI test update: Island redaction, QS-controlled work mode, hold-to-peek text reveal, and finger-following first-pull QS collapse.
+description=Battery pass: AOD popup rides the doze pulse at normal screen brightness (no full wake), island HUN replace skips while dozing, island chip is smoked glass (no blur) crossfading into the blurred card, shadow cut out via cpu path op (v58 clipOutPath gpu hang fix), 30fps equalizer and record spin, media ticker sleeps with the screen, idle power relay waits out the grace. Matching preopt + same surfaceflinger.
